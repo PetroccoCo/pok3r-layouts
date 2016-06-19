@@ -18,9 +18,9 @@ To program a key perform the following:
   * During this step, all keys are as labelled on the keyboard and not based on re-programming that previously occured.
   * A key may be remapped up to 32 characters.
 * Confirm remapping -- `PN`
-  * The second LED will blink while programming
+  * The second LED will blink while programming.
 * Exit programming mode -- `FN + R_Ctrl`
-  * The second LED will no longer be lit
+  * The second LED will no longer be lit.
 
 <start here>
 
