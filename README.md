@@ -13,14 +13,16 @@ The default layer (layer 1) cannot be programmed.  In order to start programming
 
 To program a key perform the following:
 * Start programming mode -- `FN + R_Ctrl`
-  * A second LED underneath the space bar will be lit
-* Remap key -- press the key to be re-programmed (`target key`) and then press the key to be mapped (can be up to 32 characters)
+  * A second LED underneath the space bar will be lit.
+* Remap key -- press the key to be re-programmed (`target key`) and then press the key to be mapped (`new key`)
   * During this step, all keys are as labelled on the keyboard and not based on re-programming that previously occured.
-* Confirm remapping -- press `PN`
+  * A key may be remapped up to 32 characters.
+* Confirm remapping -- `PN`
   * The second LED will blink while programming
 * Exit programming mode -- `FN + R_Ctrl`
   * The second LED will no longer be lit
 
+<start here>
 
 ## Layer 3 (Red) for OSX:
 `FN + .` to switch to Layer  3
