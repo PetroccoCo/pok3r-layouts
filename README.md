@@ -34,37 +34,17 @@ Enter into layer 3 -- `FN + .` -- in order to move the following keys.
 | `FN + J`     | `FN + K`   | Down (vim like)      |
 | `FN + K`     | `FN + I`   | Up (vim like)        |
 | no change    | no change  | Right (vim like)     |
-| `FN + H`     | `FN + J`   | PgDown (vim like)    |
-| `FN + H`     | `FN + J`   | PgUp (vim like)      |
-| 
+| `FN + F`     | `FN + O`   | PgDown (vim like)    |
+| `FN + B`     | `FN + U`   | PgUp (vim like)      |
+| `L_ALT`      | `L_WIN`    | Swap Alt / Cmd       |
+| `L_WIN`      | `L_ALT`    | Swap Alt / Cmd       |
+| `R_ALT`      | `R_WIN`    | Swap Alt / Cmd       |
+| `R_WIN`      | `R_ALT`    | Swap Alt / Cmd       |
 
 
-* [Move FN to CapsLock](#Move_FN)
-* VIM like HJKL and Page Up/Down:
-  * Left: `FN + H` then: `FN + J` then: `PN`
-  * Down: `FN + J` then: `FN + K` then: `PN`
-  * Up: `FN + K` then: `FN + I` then: `PN`
-  * PgDown: `FN + F` then: `FN + O` then: `PN`
-  * PgUp: `FN + B` then: `FN + U` then: `PN`
-* Home: `FN + I` then: `FN + H` then: `PN`
-* Volume controls:
-  * Mute: `FN + X` then: `FN + /?` then: `PN`
-  * Vol-: `FN + C` then: `FN + ,<` then: `PN`
-  * Vol+: `FN + V` then: `FN + .>` then: `PN`
-* `FN + R_Ctrl` to enter programming
-* [Common bindings](#common_bindings)
-* Swap Cmd/Opt keys on both sides of space bar:
-  * L_Cmd: `L_Alt` then: `L_WIN` then: `PN`
-  * L_Option: `L_WIN` then: `L_Alt` then: `PN`
-  * R_CMD: `R_Alt` then: `R_FN` (Win) then: `PN`
-  * R_Option: `R_FN` (Win) then: `R_Alt` then: `PN`
-* `FN + R_Ctrl` to exit programming
-
-Resulting programming:
 ![OSX layout](img/layout-osx.png)
-OSX Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com##@_name=Pok3r Layer 3 for OSX%2F%2FMac&author=Curtis Alexander&notes=See [github](https%2F:%2F%2F%2F%2Fgithub.com%2F%2Fcurtisalexander%2F%2Fpok3r-layouts)&switchMount=cherry&switchBrand=cherry&switchType=MX1A-G1xx%3B&@_y:1.5&c=%233c4041&t=%23aba18b&p=DCS&a:7%3B&=Esc` ~&_a:4%3B&=!1F1&=%2F@2F2&=%233F3&=$4F4&=%5F5&=^6F6&=%2F&7F7&=*8F8&=(9F9&=)0F10&=%2F_-F11&=+%2F=F12&_w:2%3B&=BackspaceDel%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=RReset&=T15ms&=YCal&=UPgUp&_c=%23c7c3b5&t=%23ba1312%3B&=IHome&_c=%233c4041&t=%23aba18b%3B&=OPgDn&=PPrtSc&={[Scrlk&=}]Pause&_w:1.5%3B&=|\%3B&@_c=%23c7c3b5&t=%23ba1312&w:1.25&w2:1.75%3B&=FN&_x:0.5&c=%233c4041&t=%23aba18b%3B&=A&=S&=D&_c=%23c7c3b5&t=%23ba1312%3B&=FPgDn&_c=%233c4041&t=%23aba18b%3B&=G0.1s&_c=%23c7c3b5&t=%23ba1312%3B&=HLeft&=JDown&=KUp&=LRight&_c=%233c4041&t=%23aba18b%3B&=%2F:%2F%3BIns&="'Del&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&_c=%23c7c3b5&t=%23ba1312%3B&=BPgUp&_c=%233c4041&t=%23aba18b%3B&=NEnd&=MDefault&=<,Layer 2&=>.Layer 3&=%3F%2F%2FLayer 4&_w:2.75%3B&=Shift%3B&@_w:1.25%3B&=Ctrl&_c=%23c7c3b5&t=%23ba1312&w:1.25%3B&=altoption&_f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_c=%233c4041&t=%23aba18b&p=DCS SPACE&a:7&f:3&w:6.25%3B&=&_c=%23c7c3b5&t=%23ba1312&p=DCS&a:4&f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_f:3&w:1.25%3B&=altoption&_c=%233c4041&t=%23aba18b&w:1.25%3B&=Pn&_w:1.25%3B&=Ctrl)
 
-## <a name="common_bindings"></a>Common key bindings for all OSs
+OSX Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com##@_name=Pok3r Layer 3 for OSX%2F%2FMac&author=Curtis Alexander&notes=See [github](https%2F:%2F%2F%2F%2Fgithub.com%2F%2Fcurtisalexander%2F%2Fpok3r-layouts)&switchMount=cherry&switchBrand=cherry&switchType=MX1A-G1xx%3B&@_y:1.5&c=%233c4041&t=%23aba18b&p=DCS&a:7%3B&=Esc` ~&_a:4%3B&=!1F1&=%2F@2F2&=%233F3&=$4F4&=%5F5&=^6F6&=%2F&7F7&=*8F8&=(9F9&=)0F10&=%2F_-F11&=+%2F=F12&_w:2%3B&=BackspaceDel%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=RReset&=T15ms&=YCal&=UPgUp&_c=%23c7c3b5&t=%23ba1312%3B&=IHome&_c=%233c4041&t=%23aba18b%3B&=OPgDn&=PPrtSc&={[Scrlk&=}]Pause&_w:1.5%3B&=|\%3B&@_c=%23c7c3b5&t=%23ba1312&w:1.25&w2:1.75%3B&=FN&_x:0.5&c=%233c4041&t=%23aba18b%3B&=A&=S&=D&_c=%23c7c3b5&t=%23ba1312%3B&=FPgDn&_c=%233c4041&t=%23aba18b%3B&=G0.1s&_c=%23c7c3b5&t=%23ba1312%3B&=HLeft&=JDown&=KUp&=LRight&_c=%233c4041&t=%23aba18b%3B&=%2F:%2F%3BIns&="'Del&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&_c=%23c7c3b5&t=%23ba1312%3B&=BPgUp&_c=%233c4041&t=%23aba18b%3B&=NEnd&=MDefault&=<,Layer 2&=>.Layer 3&=%3F%2F%2FLayer 4&_w:2.75%3B&=Shift%3B&@_w:1.25%3B&=Ctrl&_c=%23c7c3b5&t=%23ba1312&w:1.25%3B&=altoption&_f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_c=%233c4041&t=%23aba18b&p=DCS SPACE&a:7&f:3&w:6.25%3B&=&_c=%23c7c3b5&t=%23ba1312&p=DCS&a:4&f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_f:3&w:1.25%3B&=altoption&_c=%233c4041&t=%23aba18b&w:1.25%3B&=Pn&_w:1.25%3B&=Ctrl)
 
 
 ## <a name="Move_FN"></a>Move `FN` to `CapsLock`
