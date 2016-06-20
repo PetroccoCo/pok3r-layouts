@@ -6,6 +6,7 @@ I utilize layer 3 when using OSX -- to enable press `FN + .` which will light up
 ## General Pok3r programming info
 * [Pok3r User Manual](http://www.vortexgear.tw/db/upload/webdata4/6vortex_20166523361966663.pdf) on Vortex's site
 * Factory reset
+  * Resets all layers
   * Hold both the left and right `ALT` keys
 * Reset selected layer only
   * `FN + R` until LED under spacebar stops flashing
