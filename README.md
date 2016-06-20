@@ -10,8 +10,16 @@ I utilize layer 3 when using OSX -- to enable press `FN + .` which will light up
 * Reset selected layer only
   * `FN + R` until LED under spacebar stops flashing
 
-### Programming of layers 2-4:
-The default layer (layer 1) cannot be programmed.  In order to start programming individual keys, enter into the layer desired.  To enter into layer 3 press `FN + .`.
+## <a name="Move_FN"></a>Move `FN` to `CapsLock`
+Allows for ergonic use of `HJKL` as cursor keys.
+
+* Switch to layer 3 ; programming is per layer
+* Unplug keyboard
+* Set DIP switch 3 to `ON`
+* Plugin keyboard again
+
+## Key Reprogramming
+The default layer (layer 1) cannot be programmed.  Layers 2-4 can have keys reprogrammed.  In order to start reprogramming individual keys, enter into the layer desired.  To enter into layer 3 press `FN + .`.
 
 To program a key perform the following:
 * Start programming mode -- `FN + R_Ctrl`
@@ -25,7 +33,7 @@ To program a key perform the following:
   * The second LED will no longer be lit.
 
 ## Layer 3 (Red) for OSX:
-Enter into layer 3 -- `FN + .` -- in order to move the following keys.
+Enter into layer 3 -- `FN + .` -- in order to move the following keys.  Note that **New Key** is based on the original keyboard layout (as keys are physically labeled on the keyboard).
 
 | Original Key | New Key    | Notes / Instructions |
 |--------------|------------|----------------------|
@@ -45,18 +53,6 @@ Enter into layer 3 -- `FN + .` -- in order to move the following keys.
 ![OSX layout](img/layout-osx.png)
 
 OSX Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com##@_name=Pok3r Layer 3 for OSX%2F%2FMac&author=Curtis Alexander&notes=See [github](https%2F:%2F%2F%2F%2Fgithub.com%2F%2Fcurtisalexander%2F%2Fpok3r-layouts)%3B&@_y:1.5&c=%233c4041&t=%23aba18b&p=DCS&a:7%3B&=Esc` ~&_a:4%3B&=!1F1&=%2F@2F2&=%233F3&=$4F4&=%5F5&=^6F6&=%2F&7F7&=*8F8&=(9F9&=)0F10&=%2F_-F11&=+%2F=F12&_w:2%3B&=BackspaceDel%3B&@_w:1.5%3B&=Tab&=Q&=W&=E&=RReset&=T15ms&=YCal&=UPgUp&_c=%23c7c3b5&t=%23ba1312%3B&=IHome&_c=%233c4041&t=%23aba18b%3B&=OPgDn&=PPrtSc&={[Scrlk&=}]Pause&_w:1.5%3B&=|\%3B&@_c=%23c7c3b5&t=%23ba1312&w:1.25&w2:1.75%3B&=FN&_x:0.5&c=%233c4041&t=%23aba18b%3B&=A&=S&=D&_c=%23c7c3b5&t=%23ba1312%3B&=FPgDn&_c=%233c4041&t=%23aba18b%3B&=G0.1s&_c=%23c7c3b5&t=%23ba1312%3B&=HLeft&=JDown&=KUp&=LRight&_c=%233c4041&t=%23aba18b%3B&=%2F:%2F%3BIns&="'Del&_w:2.25%3B&=Enter%3B&@_w:2.25%3B&=Shift&=Z&=X&=C&=V&_c=%23c7c3b5&t=%23ba1312%3B&=BPgUp&_c=%233c4041&t=%23aba18b%3B&=NEnd&=MDefault&=<,Layer 2&=>.Layer 3&=%3F%2F%2FLayer 4&_w:2.75%3B&=Shift%3B&@_w:1.25%3B&=Ctrl&_c=%23c7c3b5&t=%23ba1312&w:1.25%3B&=altoption&_f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_c=%233c4041&t=%23aba18b&p=DCS SPACE&a:7&f:3&w:6.25%3B&=&_c=%23c7c3b5&t=%23ba1312&p=DCS&a:4&f:2&w:1.25%3B&=command<i class%2F='mss mss-Unicode-Command-3'><%2F%2Fi>&_f:3&w:1.25%3B&=altoption&_c=%233c4041&t=%23aba18b&w:1.25%3B&=Pn&_w:1.25%3B&=Ctrl)
-
-
-## <a name="Move_FN"></a>Move `FN` to `CapsLock`
-Allows for ergonic use of `HJKL` as cursor keys.
-
-* Switch to layer 3 ; this programming is per layer
-* Unplug keyboard
-* Set DIP switch 4 to `ON`
-* Plugin keyboard again
-* Press `FN` then `CapsLock`
-* Press `PN` then `PN` (to leave `PN` in its original location)
-* Set DIP switch 4 back to `OFF` (no need to unplug)
 
 ## Source
 Forked from [David Jenni](https://github.com/davidjenni/pok3r-layouts)
