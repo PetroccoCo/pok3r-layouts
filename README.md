@@ -38,8 +38,8 @@ Enter into layer 3 -- `FN + .` -- in order to move the following keys.
 | `FN + B`     | `FN + U`   | PgUp (vim like)      |
 | `L_ALT`      | `L_WIN`    | Swap Alt / Cmd       |
 | `L_WIN`      | `L_ALT`    | Swap Alt / Cmd       |
-| `R_ALT`      | `R_WIN`    | Swap Alt / Cmd       |
-| `R_WIN`      | `R_ALT`    | Swap Alt / Cmd       |
+| `R_ALT`      | `R_FN`     | Swap Alt / Cmd       |
+| `R_FN`       | `R_ALT`    | Swap Alt / Cmd       |
 
 
 ![OSX layout](img/layout-osx.png)
