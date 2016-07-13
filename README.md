@@ -12,7 +12,7 @@ I utilize layer 3 when using OSX -- to enable press `FN + .` which will light up
   * `FN + R` until LED under spacebar stops flashing
 
 ## <a name="Move_FN"></a>Move `FN` to `CapsLock`
-Allows for ergonic use of `HJKL` as cursor keys.
+Allows for ergonomic use of `HJKL` as cursor keys.
 
 * Switch to layer 3 ; programming is per layer
 * Unplug keyboard
