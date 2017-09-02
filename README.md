@@ -39,12 +39,12 @@ Enter into layer 3 &mdash; `FN + .` &mdash; in order to move the following keys.
 | Original Key | New Key    | Notes / Instructions |
 |--------------|------------|----------------------|
 | `FN`         | `CapsLock` | [Move FN](#Move_FN)  |
-| `FN + H`     | `FN + J`   | Left (vim like)      |
-| `FN + J`     | `FN + K`   | Down (vim like)      |
-| `FN + K`     | `FN + I`   | Up (vim like)        |
-| no change    | no change  | Right (vim like)     |
-| `FN + F`     | `FN + O`   | PgDown (vim like)    |
-| `FN + B`     | `FN + U`   | PgUp (vim like)      |
+| `FN + H`     | `FN + J`   | Left (vim-like)      |
+| `FN + J`     | `FN + K`   | Down (vim-like)      |
+| `FN + K`     | `FN + I`   | Up (vim-like)        |
+| `FN + L`     | `FN + L`   | Right (vim-like)     |
+| `FN + F`     | `FN + O`   | PgDown (vim-like)    |
+| `FN + B`     | `FN + U`   | PgUp (vim-like)      |
 | `L_ALT`      | `L_WIN`    | Swap Alt / Cmd       |
 | `L_WIN`      | `L_ALT`    | Swap Alt / Cmd       |
 
