@@ -14,7 +14,7 @@ I utilize layer 3 when using macOS &mdash; to enable press `FN + .` which will l
 ## <a name="Move_FN"></a>Move `FN` to `CapsLock`
 Allows for ergonomic use of `HJKL` as cursor keys.
 
-* Switch to layer 3 ; programming is per layer
+* Switch to layer 3 &mdash; programming is per layer
 * Unplug keyboard
 * Set DIP switch 3 to `ON`
 * Plugin keyboard again
