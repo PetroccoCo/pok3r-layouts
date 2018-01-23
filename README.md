@@ -50,9 +50,9 @@ Enter into layer 3 &mdash; `FN + .` &mdash; in order to move the following keys.
 
 
 
-![macOS layout](img/layout-macOS.png)
+![macOS layout](layout-macOS.png)
 
-macOS Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com#/gists/54174130972fd7be2d6efe5948dfd3cc)
+macOS Layout on [keyboard-layout-editor.com](http://www.keyboard-layout-editor.com/#/gists/77433027eeda64ee997f316bffdbfa75)
 
 ## Source
 Forked from [David Jenni](https://github.com/davidjenni/pok3r-layouts)
