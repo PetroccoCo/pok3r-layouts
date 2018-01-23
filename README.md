@@ -39,15 +39,24 @@ Enter into layer 3 &mdash; `FN + .` &mdash; in order to move the following keys.
 | Original Key | New Key    | Notes / Instructions |
 |--------------|------------|----------------------|
 | `FN`         | `CapsLock` | [Move FN](#Move_FN)  |
+| `L_ALT`      | `L_WIN`    | Swap Alt / Cmd       |
+| `L_WIN`      | `L_ALT`    | Swap Alt / Cmd       |
 | `FN + H`     | `FN + J`   | Left (vim-like)      |
 | `FN + J`     | `FN + K`   | Down (vim-like)      |
 | `FN + K`     | `FN + I`   | Up (vim-like)        |
 | `FN + L`     | `FN + L`   | Right (vim-like)     |
-| `FN + F`     | `FN + O`   | PgDown (vim-like)    |
-| `FN + B`     | `FN + U`   | PgUp (vim-like)      |
-| `L_ALT`      | `L_WIN`    | Swap Alt / Cmd       |
-| `L_WIN`      | `L_ALT`    | Swap Alt / Cmd       |
+| `FN + U`     | `FN + O`   | PgDown               |
+| `FN + I`     | `FN + U`   | PgUp                 |
+| `FN + Y`     | `FN + H`   | Home                 |
+| `FN + O`     | `FN + N`   | End                  |
+| `FN + S`     | `FN + A`   | Volume -             |
+| `FN + D`     | `FN + S`   | Volume +             |
+| `FN + F`     | `FN + D`   | Mute                 |
 
+Turn on bottom right arrow keys using combo:
+`L_Win` + `R_Alt` + `Spacebar` = `R_Shift`, `FN`, `PN` and `R_Ctrl` as arrow keys.
+
+[Reprogram the FN and PN buttons](https://www.reddit.com/r/MechanicalKeyboards/comments/40obmk/guide_howto_program_your_pok3r_assign_bottom/)
 
 
 ![macOS layout](layout-macOS.png)
